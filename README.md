@@ -103,7 +103,8 @@
 
 Если вам нравится этот проект и вы хотите поддержать его развитие, вы можете сделать это следующими способами:
 
-*   **GitHub Sponsors:** [Ваша ссылка на GitHub Sponsors](https://github.com/sponsors/Unix-like-SoN)
+*   **TetherUSD:** (USDT) BEP-20(binance) - 0x4f85f29892b261fa8029f3cfd64211e166744733
+*   **TetherUSD:** (USDT) TRC-20(tron) - TDnjDg9HxySo1J2FPSrvWQejyZ4gHKiXSJ
 
 Ваша поддержка очень важна и помогает мне продолжать работу над проектами с открытым исходным кодом!
 
