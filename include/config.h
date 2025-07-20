@@ -2,7 +2,7 @@
 #define CONFIG_H
 
 // WiFi настройки
-#define WIFI_SSID "Triolan_131"
+#define WIFI_SSID "Triolan"
 #define WIFI_PASSWORD "f1ash970"
 
 // Веб-сервер
